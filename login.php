@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head> <link rel="stylesheet" href="test.css"> </head>
+
 <h1>Flashcard Crafter</h1> 
 
 
@@ -26,4 +26,5 @@
     <input type="submit" value="Login">
 </fieldset>
 </form>
+<p><a href="Backend\Views\index.php">Flashcard view</a>
 <html>
